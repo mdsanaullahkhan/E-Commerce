@@ -1,0 +1,41 @@
+.container{
+    margin-bottom: 100px;
+}
+.orange-bg{
+  border-radius: 10px;
+}
+.text{
+    color: yellow;
+    
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, black 100%, white 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.card{
+    border-radius: 20px;
+    box-shadow:  5px 5px 10px lightgray;
+    text-align: center;
+    
+}
+.navnav-link active{
+    color: yellow;
+}
+.about-us{
+    height: 100px;
+
+}
+.text2{
+    border-bottom: 4px solid #ff9c35;
+    }
+    .text3{
+        text-align: center;
+
+    }
